@@ -39,7 +39,7 @@ Dodatkowo, zdecydowaliśmy się dodać elementy, które miały wzbudzić uśmiec
 
 [Wiktor Dybalski](https://github.com/WiktorDybalski)
 
-[Piotr Karamon](https://github.com/KaramonPiotr)
+[Piotr Karamon](https://github.com/pkaramon)
 
 ## Moja rola w zespole
 

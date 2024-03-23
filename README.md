@@ -1,6 +1,8 @@
 # Inżynieria Wymagań i Jakości
 
 **W tym repozytorium znajduje się projekt podsumowujący większość wiedzy nabytej podczas trwania przedmiotu.**
+Projekt wykonaliśmy w cztery osoby. [Konrad Armatys](https://github.com/karmatys8) zebrał całą naszą pracę
+w repozytorium, jest to fork jego oryginalnego repo.
 
 ## Spis treści
 
@@ -43,4 +45,5 @@ Dodatkowo, zdecydowaliśmy się dodać elementy, które miały wzbudzić uśmiec
 
 ## Moja rola w zespole
 
-Pełniłem rolę lidera, zarządzając pracą i ustalając terminy. Ponadto aktywnie uczestniczyłem w pracy nad projektem, podobnie jak pozostali członkowie zespołu.
+Aktywnie uczestniczyłem w pracy nad projektem, pracowałem nad dokumentem wizji, personą oraz nad user stories.
+Miałem bardzo wkład w makiety oraz w końcową prezentację.
